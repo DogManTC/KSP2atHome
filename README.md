@@ -13,7 +13,7 @@ Combining the best KSP 1 mods and planet packs to create a KSP 2 like experience
 
 
 ### - [Kcalbeloh: Journey to a Black Hole](https://forum.kerbalspaceprogram.com/topic/203753-1125-kcalbeloh-system-planet-pack-v118-a-journey-to-a-black-hole-aug-31-2024/)
-  1. Used for the Placeholder system, renamed here to "the Placeholder System" and with minor tweaks to the configs of it and it's planets
+  1. Used for the Kcalbeloh blackhole and the Maeleg and Sunorc, renamed here to "the Placeholder System" and with minor tweaks to the configs of it and it's planets
   2. I am not claiming to have made this mod and give full credit to the original Publisher, [Jason Kerman](https://github.com/jcyuan06).
 
 
